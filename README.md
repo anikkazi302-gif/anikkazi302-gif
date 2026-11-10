@@ -10,9 +10,9 @@ AI filmmaker and creator from Bangladesh. I build stories with AI video tools an
 
 ## 🎬 LumeField — Free AI Video Generator
 
-**[Try LumeField live →](https://anikkazi302-gif.github.io/free-ai-video-studio/)**
+**[Try LumeField live →](https://anikkazi302-gif.github.io/lumefield/)**
 
-Turn your reference photos into 30-second cinematic videos with free AI engines. No sign-up, no card. ([Repo](https://github.com/anikkazi302-gif/free-ai-video-studio))
+Turn your reference photos into 30-second cinematic videos with free AI engines. No sign-up, no card. ([Repo](https://github.com/anikkazi302-gif/lumefield))
 
 ## 🔭 Currently Working On
 
@@ -35,7 +35,7 @@ Turn your reference photos into 30-second cinematic videos with free AI engines.
 - [TaffyTunes Song Maker](https://github.com/anikkazi302-gif/taffytunes-song-maker) — original nursery-rhyme lyrics, hooks, SEO titles and hashtags for kids' Shorts
 - [Flow Prompt Builder](https://github.com/anikkazi302-gif/flow-prompt-builder) — Google Flow video prompts with locked camera, face-lock and second-by-second timing
 - [Free Video Generators](https://github.com/anikkazi302-gif/free-video-generators) — curated directory of free high-quality AI video generation tools with their free limits
-- [LumeField](https://github.com/anikkazi302-gif/free-ai-video-studio) — free AI video generator: 30-second cinematic videos from your reference photos ([live site](https://anikkazi302-gif.github.io/free-ai-video-studio/))
+- [LumeField](https://github.com/anikkazi302-gif/lumefield) — free AI video generator: 30-second cinematic videos from your reference photos ([live site](https://anikkazi302-gif.github.io/lumefield/))
 
 ## 📊 GitHub Stats
 
