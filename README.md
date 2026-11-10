@@ -8,9 +8,21 @@ AI filmmaker and creator from Bangladesh. I build stories with AI video tools an
 - 🎵 Running **TaffyTunes** — original nursery-rhyme Shorts for kids on YouTube
 - 🛠️ Building open-source tools for creators
 
-## 🛠️ Tools I Use
+## 🔭 Currently Working On
 
-Google Flow (Veo) · Kling · HTML / CSS / JavaScript · Python · YouTube Studio
+- **Ember — The Dragon She Hid** — a dark-fantasy AI movie, made scene by scene in Google Flow
+- **TaffyTunes** — daily original nursery-rhyme Shorts for toddlers and preschoolers
+
+## 🛠️ Tools & Skills
+
+![Google Flow](https://img.shields.io/badge/Google_Flow-4285F4?style=flat)
+![Veo](https://img.shields.io/badge/Veo_3-34A853?style=flat)
+![Kling](https://img.shields.io/badge/Kling-7C3AED?style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)
 
 ## 📌 Featured Projects
 
